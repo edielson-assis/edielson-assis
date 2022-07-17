@@ -1,8 +1,10 @@
-- 👋 Hi there, I’m @edielson-assis
-- 👀 I’m interested in learnig everything about IT. 
-- 🌱 I’m currently learning: C, C++, JAVA, C#, Python, HTML and CSS.
+- 👋 Hi there, I’m Edielson Assis
+- 👨‍💻 I've been studying computer science at Unijorge-BA/2021.2
+- 👨‍🎓 I've been studying English at Fluency Academy since July/2021
+- 👀 I’ve interested in learnig everything about IT. 
+- 🌱 I’ve been currently learning: C, C++, JAVA, C#, Python, HTML and CSS.
 - 💞️ I'm looking to collaborate in the development of new technologies. 
-- 📫 How to reach me? Just call me here.
+- 📫 How to reach me? Just call me [here](https://www.linkedin.com/in/edielson-assis/ "LinkedIn").
 
 <div align="center">
   <a href="https://github.com/edielson-assis">
@@ -17,13 +19,14 @@
   <img align="center" alt="Edielson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edielson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edielson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Edielson-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/bbdd007e64a7da474c977853f740f6b4/424edd76f24d4b5d-3f/s512x512u_c1/e1a2d4c53411bca40ac50442287a102f725807b0.jpg">
+  
 </div>
   
   ##
   
   <div>
-  <a href = "mailto:edielsonnice@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:grizos.ed@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/edielson_assis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/edielson-assis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   </div>
