@@ -1,8 +1,8 @@
 - 👋 Hi there, I’m Edielson Assis
-- 👨‍💻 I've been studying computer science at Unijorge-BA/2021.2
-- 👨‍🎓 I've been studying English at Fluency Academy since July/2021
+- 👨‍💻 I've been studying computer science at university
+- 👨‍🎓 I've been studying English at Fluency Academy
 - 👀 I’ve interested in learnig everything about IT. 
-- 🌱 I’ve been currently learning: C, C++, JAVA, C#, Python, HTML and CSS.
+- 🌱 I’ve been currently learning: C, C++, JAVA, C#, Python, HTML, CSS and JavaScript.
 - 💞️ I'm looking to collaborate in the development of new technologies. 
 - 📫 How to reach me? Just call me [here](https://www.linkedin.com/in/edielson-assis/ "LinkedIn").
 
